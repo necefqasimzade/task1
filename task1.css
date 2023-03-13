@@ -1,0 +1,21 @@
+.task3{
+ text-align: center; 
+ margin-top: 250px;
+ color: aliceblue; 
+} 
+body{
+   background-color: brown; 
+}
+.task4{
+    border: 2px solid rgb(255, 255, 255);
+    margin: 10px 45% ;
+    color: rgb(168, 34, 34);
+}
+.task{
+margin: 5px 45% ;
+ border-radius: 30px;
+ padding: 15px 30px;
+}
+.task1{
+    color: rgb(194, 172, 172);
+}
